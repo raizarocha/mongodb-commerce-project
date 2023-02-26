@@ -4,12 +4,12 @@
 O projeto foi desenvolvido utilizando Docker, onde trabalhei com o banco de dados commerce, que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas. 
 
 Nele foi colocado em prática o que aprendemos sobre: <br />
-- Docker :heavy_check_mark:; <br />
-- MongoDB :heavy_check_mark:; <br />
-- Filter Operators :heavy_check_mark:; <br />
-- Operadores de consulta :heavy_check_mark:; <br />
-- Updates Simples :heavy_check_mark:; <br />
-- Updates Complexos :heavy_check_mark:; <br />
+- Docker :heavy_check_mark: <br />
+- MongoDB :heavy_check_mark: <br />
+- Filter Operators :heavy_check_mark: <br />
+- Operadores de consulta :heavy_check_mark: <br />
+- Updates Simples :heavy_check_mark: <br />
+- Updates Complexos :heavy_check_mark: <br />
 
 Lista de requisitos realizados por mim neste projeto:
 1. Retorne a quantidade de documentos inseridos na coleção `produtos` <br />
